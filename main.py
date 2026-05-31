@@ -16,3 +16,5 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 fhgfk
 test 26 book
+gitignore - Specifies intentionally untracked files to ignore
+EkaterinaHoduleva
